@@ -1,0 +1,6 @@
+@ppawproject_HostAddress = http://localhost:5123
+
+GET {{ppawproject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
